@@ -2,7 +2,7 @@
 A RimWorld 1.2 MOD to make statues (sculptures) from stone chunks
 
 ### DECLARATION
-This is an update of the [original 1.1 mod](http://https://steamcommunity.com/sharedfiles/filedetails/?id=1366888108) by Joseph under his declaration:
+This is an update of the [original 1.1 mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2008903395) by Joseph under his declaration:
 > I am no longer maintaining this mod. anyone who wishes may use it or any part of it to continue the mod.
 
 While porting it to RimWorld 1.2, I have made following changes:
@@ -24,7 +24,7 @@ A separate recipe has to be used to craft with chunks.
 ### SUPPORTED LANGUAGE
 English, Simp./Trad. Chinese, Japanese.
 
-Since the "statue" is actually all the same as "sculpture", it is very easy to make localization for this MOD. Most of the text can be directly copied from vanilla language files, and there are only 2 words you need to translate: "chunky" (a stuff category) and "statue" (just another word of "sculpture"). Feel free to make your own language files or just tell me the translation of these 2 words in your language!
+Since the "statue" is actually all the same as "sculpture", it is very easy to make localization for this MOD. Most of the text can be directly copied from vanilla language files, and there are only 2 words you need to translate: "**chunky**" (a stuff category) and "**statue**" (just another word of "sculpture"). Feel free to make your own language files or just tell me the translation of these 2 words in your language!
 
 ### COMPATIBILITY
 It should be compatible with all mods that add new textures to vanilla sculptures, e.g. More Sculpture.
