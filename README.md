@@ -1,5 +1,5 @@
 # Statue From Chunks
-A RimWorld 1.2 MOD to make statues (sculptures) from stone chunks
+A RimWorld 1.2+ MOD to make statues (sculptures) from stone chunks
 
 ### DECLARATION
 This is an update of the [original 1.1 mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2008903395) by Joseph under his declaration:
