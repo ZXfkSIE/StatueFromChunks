@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ModMetaData>
-  <name>Statue from chunks [1.2]</name>
+  <name>Statue from chunks [1.2+]</name>
   <author>Joseph, Miyuri</author>
   <supportedVersions>
     <li>1.2</li>
@@ -12,5 +12,5 @@
 
 Every small, large and grand statue takes 1, 2 and 8 chunks, respectively. 
 
-A separate recipe has to be used to craft with chunks. Sculptures crafted from chunks are called statues. </description>
+A separate recipe has to be used to craft with chunks. Sculptures crafted from chunks are called statues.</description>
 </ModMetaData>
